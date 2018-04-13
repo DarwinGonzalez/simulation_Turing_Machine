@@ -1,5 +1,5 @@
 //========================================================================================
-// Practica 7 Computabilidad y Algoritmia
+// Practica Computabilidad y Algoritmia
 // Autor Darwin Gonzalez Suarez
 // Implementacion de la clase TuringMachine
 //========================================================================================
